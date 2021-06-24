@@ -1,0 +1,15 @@
+{
+    "name": "asir_/emiratespets",
+    "autoload": {
+        "psr-4": {
+            "Asir\\Emiratespets\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "helloasir",
+            "email": "helloasir@yahoo.com"
+        }
+    ],
+    "require": {}
+}
